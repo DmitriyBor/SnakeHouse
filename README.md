@@ -1,2 +1,2 @@
 # SnakeHouse
-#  Hi
+This repository was created to experiment with Python
